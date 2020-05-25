@@ -7,7 +7,7 @@
  */
 
 import xmlParse from 'xml2js-es6-promise';
-import request from 'request-promise-native';
+import request from 'request-promise';
 
 /**
  * @typedef {Object} Sitemapper
